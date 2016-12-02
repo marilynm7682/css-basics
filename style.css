@@ -18,4 +18,8 @@ hr {
     background: #333;
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
-
+h1 {
+    font-family: "Oswald", "Heltica Neue";
+    text-align: center;
+    color: #2884C3;
+}
